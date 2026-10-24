@@ -26,16 +26,6 @@
     ]
   },
   {
-    "id": 2,
-    "title": "example",
-    "year": 2000,
-    "genre": "no",
-    "status": "watched",
-    "posterUrl": "",
-    "description": "no",
-    "reviews": []
-  },
-  {
     "id": 3,
     "title": "Inception",
     "year": 2010,
@@ -50,67 +40,5 @@
         "date": "2026-01-29"
       }
     ]
-  },
-  {
-    "id": 4,
-    "title": "example",
-    "year": 2000,
-    "genre": "eg",
-    "status": "watched",
-    "posterUrl": "",
-    "description": "eg",
-    "reviews": []
-  },
-  {
-    "id": 5,
-    "title": "Inception",
-    "year": 2010,
-    "genre": "Sci-fi",
-    "status": "watched",
-    "posterUrl": "/inception_poster.jpg",
-    "description": "Christopher Nolan's 2010 sci-fi thriller about dreams within dreams.",
-    "reviews": []
-  },
-  {
-    "id": 6,
-    "title": "Inception",
-    "year": 2010,
-    "genre": "Sci-fi",
-    "status": "watched",
-    "posterUrl": "/inception_poster.jpg",
-    "description": "Christopher Nolan's 2010 sci-fi thriller about dreams within dreams.",
-    "reviews": [
-      {
-        "rating": 5,
-        "text": "Inception is a mind-bending sci-fi classic—twisty, visually stunning, and endlessly thought-provoking.",
-        "date": "2026-01-29"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Inception",
-    "year": 2010,
-    "genre": "Sci-fi",
-    "status": "watched",
-    "posterUrl": "/inception_poster.jpg",
-    "description": "Christopher Nolan's 2010 sci-fi thriller about dreams within dreams.",
-    "reviews": [
-      {
-        "rating": 5,
-        "text": "Inception is a mind-bending sci-fi classic—twisty, visually stunning, and endlessly thought-provoking.",
-        "date": "2026-01-29"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "eg",
-    "year": 2000,
-    "genre": "eg",
-    "status": "watched",
-    "posterUrl": "",
-    "description": "eg",
-    "reviews": []
   }
 ]
