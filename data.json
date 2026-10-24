@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "status": "watchlist",
+    "posterUrl": "/Interstellar.jpeg",
+    "description": "Christopher Nolan’s 2014 sci-fi epic Interstellar follows astronaut Cooper on a wormhole mission to save humanity from a dying Earth, merging cosmic adventure with heartfelt themes of love and time.",
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "A breathtaking sci-fi masterpiece—stunning visuals, a haunting Zimmer score, and a deeply emotional core that makes cosmic exploration feel achingly human. Nolan balances grand scale with intimate heart perfectly.",
+        "date": "2026-01-29"
+      },
+      {
+        "rating": 4,
+        "text": "Interstellar is more than a space epic; it’s a powerful meditation on love, sacrifice and time. Visually mesmerizing, emotionally resonant, and endlessly thought-provoking.",
+        "date": "2026-01-29"
+      },
+      {
+        "rating": 3,
+        "text": "bad",
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "example",
+    "year": 2000,
+    "genre": "no",
+    "status": "watched",
+    "posterUrl": "",
+    "description": "no",
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-fi",
+    "status": "watched",
+    "posterUrl": "/inception_poster.jpg",
+    "description": "Christopher Nolan's 2010 sci-fi thriller about dreams within dreams.",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Inception is a mind-bending sci-fi classic—twisty, visually stunning, and endlessly thought-provoking.",
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "example",
+    "year": 2000,
+    "genre": "eg",
+    "status": "watched",
+    "posterUrl": "",
+    "description": "eg",
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-fi",
+    "status": "watched",
+    "posterUrl": "/inception_poster.jpg",
+    "description": "Christopher Nolan's 2010 sci-fi thriller about dreams within dreams.",
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-fi",
+    "status": "watched",
+    "posterUrl": "/inception_poster.jpg",
+    "description": "Christopher Nolan's 2010 sci-fi thriller about dreams within dreams.",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Inception is a mind-bending sci-fi classic—twisty, visually stunning, and endlessly thought-provoking.",
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-fi",
+    "status": "watched",
+    "posterUrl": "/inception_poster.jpg",
+    "description": "Christopher Nolan's 2010 sci-fi thriller about dreams within dreams.",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Inception is a mind-bending sci-fi classic—twisty, visually stunning, and endlessly thought-provoking.",
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "eg",
+    "year": 2000,
+    "genre": "eg",
+    "status": "watched",
+    "posterUrl": "",
+    "description": "eg",
+    "reviews": []
+  }
+]

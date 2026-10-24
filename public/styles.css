@@ -1,0 +1,48 @@
+/* General layout tweaks */
+body {
+  scroll-behavior: smooth;
+}
+
+/* Film list items hover highlight */
+.list-group-item:hover {
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+/* Selected film highlight */
+.list-group-item.active-film {
+  background-color: #0d6efd;
+  color: white;
+}
+
+/* Film poster scaling */
+.film-poster {
+  max-width: 150px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Small grey text */
+.text-small-muted {
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
+/* Review boxes */
+.review-box {
+  padding: 10px 12px;
+  border-radius: 6px;
+  background: #f8f9fa;
+  border-left: 4px solid #0d6efd;
+  margin-bottom: 10px;
+}
+
+/* Statistics panel */
+#stats-panel {
+  line-height: 1.6;
+}
+
+/* Modal typography */
+.modal-body label {
+  font-weight: 500;
+}

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: film-library-portfolio
+    runtime: node
+    plan: free
+    buildCommand: npm ci
+    startCommand: npm start
+    envVars:
+      - key: PUBLIC_DEMO
+        value: "true"
+      - key: NODE_ENV
+        value: production
