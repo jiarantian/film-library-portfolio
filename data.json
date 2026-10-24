@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -22,6 +23,16 @@
         "rating": 3,
         "text": "bad",
         "date": "2026-01-29"
+      },
+      {
+        "rating": 5,
+        "text": "An extraordinary journey through space and time. The cinematography is stunning, and Hans Zimmer's soundtrack makes every moment unforgettable.",
+        "date": "2026-10-24"
+      },
+      {
+        "rating": 4,
+        "text": "A visually spectacular and emotionally powerful film. Some scientific concepts are difficult to follow, but the story remains deeply engaging.",
+        "date": "2026-10-24"
       }
     ]
   },
@@ -38,6 +49,26 @@
         "rating": 5,
         "text": "Inception is a mind-bending sci-fi classic—twisty, visually stunning, and endlessly thought-provoking.",
         "date": "2026-01-29"
+      },
+      {
+        "rating": 5,
+        "text": "A brilliant and imaginative thriller with an incredibly clever concept. The dream sequences are fascinating, and the ending leaves you questioning reality.",
+        "date": "2026-10-24"
+      },
+      {
+        "rating": 4,
+        "text": "The storyline is complex but rewarding. Excellent performances, impressive visual effects, and a memorable soundtrack make this film worth watching.",
+        "date": "2026-10-24"
+      },
+      {
+        "rating": 5,
+        "text": "Christopher Nolan delivers an outstanding combination of science fiction, action, and psychological suspense. Every rewatch reveals something new.",
+        "date": "2026-10-24"
+      },
+      {
+        "rating": 3,
+        "text": "An interesting and visually impressive film, although the complicated plot can sometimes make it difficult to connect with the characters.",
+        "date": "2026-10-24"
       }
     ]
   }
